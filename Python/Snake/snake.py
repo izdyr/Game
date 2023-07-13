@@ -1,4 +1,4 @@
-#[[ DONT FORGET TO INCLUDE eat_sound.wav and game_over_sound.wav AT YOUR DIRECTORY
+#            [[ DONT FORGET TO INCLUDE eat_sound.wav and game_over_sound.wav AT YOUR DIRECTORY]]
 import pygame
 import random
 
